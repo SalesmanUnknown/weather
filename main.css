@@ -42,3 +42,15 @@ body{
 .degree-section h2{
     font-size: 40px;
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+
+.lightenz{
+	-webkit-text-fill-color: #7acef5;
+}  
